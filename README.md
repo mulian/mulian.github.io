@@ -1,3 +1,1 @@
-# mulian.github.io
-
-my page
+Welcome to my GitHub page.
